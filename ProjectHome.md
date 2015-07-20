@@ -1,0 +1,1 @@
+The AC and DC parameters of transmission lines (coaxial, Lecher, microstrip) can be calculated with this software.
